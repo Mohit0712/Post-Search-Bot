@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  =
-ADMIN        = 1255023013
-CHANNEL      = "RahulReviews"
+API_ID       = 5010466936
+API_HASH     = "d364d8b0cef312c770cfc4b37a912fc2"
+BOT_TOKEN    = "6627900551:AAEnqD7AXvnsi9OZLke8E2IDUe5n2l4AM2U"
+SESSION      = "BQFL90cAET3aIRElYvZfwrfQRuQJ5i-OoePfdbopJaHFZ9Zp8SY6AcpTnlnszXcSGhZOVUGqVCqfaqOJZt74z6uyyZkg3qRzJsYtGQ6MrikKdzYkvgpsG8X_MDYvtIu0yjSWO7xnssA_uEq4oZENWoSEy8UQAux3D1G91qQM83CP9ns2jfS2U0CEdO8GaMrgbn4EcuzZq-3-J6Bupn17JEeFN0GmcPdiKBNBJn6fbWRehY4tHCTRsgeZsf591TxdtA3XogMX8imt-J3I80UxTRxv4IOKMEGPvHLSK-iz618j_Dj5_ZFQWvZRVEKUizKBZPX4mAIR5wlt07MeliG1G7dNnLkyMQAAAAE0HD8bAA"
+DATABASE_URI = "mongodb+srv://mohitguptaworker:bqTe0DfbfHp9OmaT@cluster0.zbojxhb.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001827018481
+ADMIN        = 5010466936
+CHANNEL      = "bhootbazar"
